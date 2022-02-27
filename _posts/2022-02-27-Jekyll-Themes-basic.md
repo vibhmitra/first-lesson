@@ -10,7 +10,9 @@ in the markdown.
 
 For example 
 font decorations like -
-bold: **bold ** fonts
+
+bold: **bold** fonts
+
 italics: *italic* fonts
 
 ## Lists looks like this
