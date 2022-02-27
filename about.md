@@ -9,8 +9,6 @@ This page describes the amazing {{ site.title }} developed by {{ site.author.nam
 
 -------------------------
 
-{% include big-cat.html %}
-
 Reasons:
 - Its Grate.
 - Its a test.
