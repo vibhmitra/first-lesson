@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: dark
 title: About
+example: "Example Text variable. #example variable
 ---
 
-This is an about paage about the one and only my new blog.
-Hope ya'll love it!
+this page descripe the amazing {{ site.tittle }} developed by {{ site.authour.name }}.
+{{ page.example }}
+
+{% include big-cat.html %}
 
 Reasons:
 - Its Grate.
