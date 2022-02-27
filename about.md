@@ -4,8 +4,10 @@ title: About
 example: "Example Text variable." #example variable
 ---
 
-This page descripe the amazing {{ site.tittle }} developed by {{ site.authour.name }}.
+This page describes the amazing {{ site.title }} developed by {{ site.author.name }}.
 {{ page.example }}
+
+-------------------------
 
 {% include big-cat.html %}
 
