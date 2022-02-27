@@ -1,4 +1,5 @@
 ---
 layout: home
-title: New Blog
 ---
+
+Welcome to the new blog.
