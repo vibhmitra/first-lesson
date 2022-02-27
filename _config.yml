@@ -1,0 +1,11 @@
+# basic option. i can say whatever here.
+title: Vibhs Notes
+author: vibhmitra
+email: vibh@gmail.com
+description: A lovely wonderful site.
+twitter_username: vibhmitra
+github_username: vibhmitra
+
+# build settings
+markdown: kramdown
+theme: minima
