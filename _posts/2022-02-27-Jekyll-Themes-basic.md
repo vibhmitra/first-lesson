@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll
+title: Jekyll Theme Management
 tags: webdev
 categories: Tech
 ---
