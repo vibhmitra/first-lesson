@@ -1,4 +1,4 @@
-# basic option. i can say whatever here.
+# site settings
 title: Vibhs Notes
 author:
   name: "Vibhanshu Mitra"
@@ -9,4 +9,4 @@ github_username: vibhmitra
 
 # build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
