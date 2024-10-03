@@ -30,9 +30,9 @@ Ordered Lists:
 
 for Links 
 
-![alt text white cat](https://placekitten.com/200/120)
+![alt text random waifu](https://placewaifu.com/image/200)
 
-This is a [white cat](https://en.wikipedia.org/wiki/Cat)
+This is a [Waifu](https://waifu.fandom.com/wiki/Waifu_Wiki)
 
 ------------- 
 >block quote
